@@ -12,6 +12,7 @@ Projeto com 27 requisitos com objetivo de trabalhar com query em um banco de dad
 
 * _Bash_
 * _Docker_
+* _MySQL_
 * _Workbench_
 ## 📌 Habilidades
 Desenvolvi as seguintes habilidades:
